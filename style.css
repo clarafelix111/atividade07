@@ -1,0 +1,21 @@
+.titulo {
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center; 
+font-weight: 900;
+}
+.subtitulo {
+text-align: center; 
+font-weight: 700;   
+}
+.fonte {
+text-transform: uppercase;    
+color: rgb(53, 52, 52);
+}
+.data {
+color:rgb(253, 27, 27);
+font-style: italic;
+}
+.texto {
+text-decoration: solid;
+font-size: large;
+}
